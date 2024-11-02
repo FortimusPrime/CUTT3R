@@ -45,7 +45,7 @@ CUTT3R 3.0 is a LEGO Mindstorms robot built for precise string cutting, accommod
 
 ## Video Demo
 
-For a full demonstration, check out the video [here](#) showcasing CUTT3R 3.0 in action.
+For a full demonstration, check out the video [here](https://youtu.be/IAVIkogUW_Q) showcasing CUTT3R 3.0 in action.
 
 ## Getting Started
 
